@@ -204,9 +204,11 @@ Opens in browser at `localhost`
 ---
 
 ## Project Files:
-* [happiness_index_regressions.ipynb](./happiness_index_regressions.ipynb): The full analysis, feature engineering (log transforms), and manual statistical validation.
-* [happiness_index_regressions.html](./happiness_index_regressions.html): The ready-to-share version of the results.
-* [Happiness_Data_Extended.csv](./Happiness_Data_Extended.csv): The merged dataset.
+* [DeforestationClassifier.ipynb](./DeforestationClassifier.ipynb): The full analysis, feature engineering, model testing, metric analysis, etc.
+* [DeforestationClassifier.html](./DeforestationClassifier.html): The ready-to-share version of the results.
+* [classified_deforestation.csv](./classified_deforestation.csv): The dataset.
+* [model_arena_app.py](./model_arena_app.py): the interactive streamlit website with the predictive tool and the fighting ring.
+* [launch_arena.sh](./launch_arena.sh): The simple way to launch (if on your computer just clicik play or double click on the file)
 
 ---
 
